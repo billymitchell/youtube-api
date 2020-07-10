@@ -27,7 +27,7 @@ class App extends React.Component {
         part: 'snippet',
         maxResults: 200,
         type: 'video',
-        key: process.env.REACT_APP_YOUTUBE_API,
+        key: 'AIzaSyCTk2RR6ukJF0EQn8pTemZthAbcZhGEPlw',
       },
     });
 
