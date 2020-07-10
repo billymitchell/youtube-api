@@ -1,0 +1,16 @@
+#flex {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.pointer:hover {
+  cursor: pointer;
+}
+.fluid {
+  width: 100% !important;
+  height: auto !important;
+}
+
+.max-100 {
+  max-width: 100px !important;
+}
